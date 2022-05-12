@@ -1,0 +1,38 @@
+div.a {
+    text-align: center;
+}
+div {
+    height: 200px;
+    width: 1600px;
+
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: #EBEBEB; 
+}
+header {
+    background-color: #D64309;
+}
+nav a:hover {
+    background-color: black;
+}
+nav a:hover {
+    background-color: #0033A0;
+    color: #d9c2a3;
+} 
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}  
