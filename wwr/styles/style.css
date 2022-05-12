@@ -1,25 +1,13 @@
-div.a {
-    text-align: center;
-}
 div {
     height: 200px;
     width: 1600px;
 
 }
-.center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-}
 #background {
-    height: 725px;
+    height: 200px;
 }
 body {
     background-color: #EBEBEB; 
-}
-header {
-    background-color: #D64309;
 }
 nav a:hover {
     background-color: black;
@@ -29,10 +17,28 @@ nav a:hover {
     color: #d9c2a3;
 } 
 .icon {
-    width: 80px;
+    width: 20px;
 }
 nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #0033A0;
     text-decoration: none;
-}  
+} 
+h3 {
+    text-align: center;
+    color: #0033A0;
+    text-decoration: none;
+    background-color: #d9c2a3;
+    color: #0033A0;
+} 
+main {
+    padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+}
+header {
+    padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+    background-color: #D64309;
+}
